@@ -1,0 +1,29 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Pacific/Niue": {
+      "name": "Pacific/Niue",
+      "abbr": [
+        "-1120",
+        "-1130",
+        "-11"
+      ],
+      "until": [
+        -599575200000,
+        276089400000,
+        null
+      ],
+      "offset": [
+        680,
+        690,
+        660
+      ],
+      "dst": [
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

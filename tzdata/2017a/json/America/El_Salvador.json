@@ -1,0 +1,41 @@
+{
+  "version": "2017a",
+  "zones": {
+    "America/El_Salvador": {
+      "name": "America/El_Salvador",
+      "abbr": [
+        "LMT",
+        "CST",
+        "CDT",
+        "CST",
+        "CDT",
+        "CST"
+      ],
+      "until": [
+        -1546279392000,
+        547020000000,
+        559717200000,
+        578469600000,
+        591166800000,
+        null
+      ],
+      "offset": [
+        356.8,
+        360,
+        300,
+        360,
+        300,
+        360
+      ],
+      "dst": [
+        false,
+        false,
+        true,
+        false,
+        true,
+        false
+      ]
+    }
+  },
+  "links": []
+}

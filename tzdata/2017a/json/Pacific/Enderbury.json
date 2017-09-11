@@ -1,0 +1,29 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Pacific/Enderbury": {
+      "name": "Pacific/Enderbury",
+      "abbr": [
+        "-12",
+        "-11",
+        "+13"
+      ],
+      "until": [
+        307627200000,
+        788958000000,
+        null
+      ],
+      "offset": [
+        720,
+        660,
+        -780
+      ],
+      "dst": [
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

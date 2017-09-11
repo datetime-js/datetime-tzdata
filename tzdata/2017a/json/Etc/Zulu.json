@@ -1,0 +1,21 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Etc/Zulu": {
+      "name": "Etc/Zulu",
+      "abbr": [
+        "UTC"
+      ],
+      "until": [
+        null
+      ],
+      "offset": [
+        0
+      ],
+      "dst": [
+        false
+      ]
+    }
+  },
+  "links": []
+}

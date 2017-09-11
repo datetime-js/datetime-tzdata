@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Pacific/Samoa": {
+      "name": "Pacific/Samoa",
+      "abbr": [
+        "LMT",
+        "SST"
+      ],
+      "until": [
+        -1861879032000,
+        null
+      ],
+      "offset": [
+        682.8,
+        660
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Africa/Luanda": {
+      "name": "Africa/Luanda",
+      "abbr": [
+        "LMT",
+        "WAT"
+      ],
+      "until": [
+        -1588464816000,
+        null
+      ],
+      "offset": [
+        -13.6,
+        -60
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

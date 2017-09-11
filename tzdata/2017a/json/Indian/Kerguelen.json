@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Indian/Kerguelen": {
+      "name": "Indian/Kerguelen",
+      "abbr": [
+        "-00",
+        "+05"
+      ],
+      "until": [
+        -631152000000,
+        null
+      ],
+      "offset": [
+        0,
+        -300
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

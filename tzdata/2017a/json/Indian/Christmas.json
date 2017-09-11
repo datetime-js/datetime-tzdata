@@ -1,0 +1,21 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Indian/Christmas": {
+      "name": "Indian/Christmas",
+      "abbr": [
+        "+07"
+      ],
+      "until": [
+        null
+      ],
+      "offset": [
+        -420
+      ],
+      "dst": [
+        false
+      ]
+    }
+  },
+  "links": []
+}

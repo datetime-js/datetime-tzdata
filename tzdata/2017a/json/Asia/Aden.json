@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Asia/Aden": {
+      "name": "Asia/Aden",
+      "abbr": [
+        "LMT",
+        "+03"
+      ],
+      "until": [
+        -719636812000,
+        null
+      ],
+      "offset": [
+        -186.8667,
+        -180
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

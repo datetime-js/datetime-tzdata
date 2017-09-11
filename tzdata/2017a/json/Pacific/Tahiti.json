@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Pacific/Tahiti": {
+      "name": "Pacific/Tahiti",
+      "abbr": [
+        "LMT",
+        "-10"
+      ],
+      "until": [
+        -1806674504000,
+        null
+      ],
+      "offset": [
+        598.2667,
+        600
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

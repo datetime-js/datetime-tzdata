@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "America/Port_of_Spain": {
+      "name": "America/Port_of_Spain",
+      "abbr": [
+        "LMT",
+        "AST"
+      ],
+      "until": [
+        -1825098836000,
+        null
+      ],
+      "offset": [
+        246.0667,
+        240
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

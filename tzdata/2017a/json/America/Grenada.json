@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "America/Grenada": {
+      "name": "America/Grenada",
+      "abbr": [
+        "LMT",
+        "AST"
+      ],
+      "until": [
+        -1825098836000,
+        null
+      ],
+      "offset": [
+        246.0667,
+        240
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

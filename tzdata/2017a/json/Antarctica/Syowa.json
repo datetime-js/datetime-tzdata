@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Antarctica/Syowa": {
+      "name": "Antarctica/Syowa",
+      "abbr": [
+        "-00",
+        "+03"
+      ],
+      "until": [
+        -407808000000,
+        null
+      ],
+      "offset": [
+        0,
+        -180
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

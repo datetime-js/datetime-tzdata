@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "America/Cayman": {
+      "name": "America/Cayman",
+      "abbr": [
+        "CMT",
+        "EST"
+      ],
+      "until": [
+        -1946918424000,
+        null
+      ],
+      "offset": [
+        319.6,
+        300
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

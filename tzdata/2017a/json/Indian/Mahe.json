@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Indian/Mahe": {
+      "name": "Indian/Mahe",
+      "abbr": [
+        "LMT",
+        "+04"
+      ],
+      "until": [
+        -2006653308000,
+        null
+      ],
+      "offset": [
+        -221.8,
+        -240
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

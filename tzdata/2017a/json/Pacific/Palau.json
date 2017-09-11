@@ -1,0 +1,21 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Pacific/Palau": {
+      "name": "Pacific/Palau",
+      "abbr": [
+        "+09"
+      ],
+      "until": [
+        null
+      ],
+      "offset": [
+        -540
+      ],
+      "dst": [
+        false
+      ]
+    }
+  },
+  "links": []
+}

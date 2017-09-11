@@ -1,0 +1,29 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Kwajalein": {
+      "name": "Kwajalein",
+      "abbr": [
+        "+11",
+        "-12",
+        "+12"
+      ],
+      "until": [
+        -7988400000,
+        745848000000,
+        null
+      ],
+      "offset": [
+        -660,
+        720,
+        -720
+      ],
+      "dst": [
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

@@ -1,0 +1,21 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Etc/GMT-13": {
+      "name": "Etc/GMT-13",
+      "abbr": [
+        "+13"
+      ],
+      "until": [
+        null
+      ],
+      "offset": [
+        -780
+      ],
+      "dst": [
+        false
+      ]
+    }
+  },
+  "links": []
+}

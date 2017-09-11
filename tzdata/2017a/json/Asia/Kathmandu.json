@@ -1,0 +1,29 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Asia/Kathmandu": {
+      "name": "Asia/Kathmandu",
+      "abbr": [
+        "LMT",
+        "+0530",
+        "+0545"
+      ],
+      "until": [
+        -1577943676000,
+        504901800000,
+        null
+      ],
+      "offset": [
+        -341.2667,
+        -330,
+        -345
+      ],
+      "dst": [
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

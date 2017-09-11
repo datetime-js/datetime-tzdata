@@ -1,0 +1,29 @@
+{
+  "version": "2017a",
+  "zones": {
+    "America/Cayenne": {
+      "name": "America/Cayenne",
+      "abbr": [
+        "LMT",
+        "-04",
+        "-03"
+      ],
+      "until": [
+        -1846269040000,
+        -71092800000,
+        null
+      ],
+      "offset": [
+        209.3333,
+        240,
+        180
+      ],
+      "dst": [
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

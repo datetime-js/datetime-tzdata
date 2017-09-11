@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Asia/Vientiane": {
+      "name": "Asia/Vientiane",
+      "abbr": [
+        "BMT",
+        "+07"
+      ],
+      "until": [
+        -1570084924000,
+        null
+      ],
+      "offset": [
+        -402.0667,
+        -420
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

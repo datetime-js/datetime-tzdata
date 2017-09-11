@@ -1,0 +1,21 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Etc/Greenwich": {
+      "name": "Etc/Greenwich",
+      "abbr": [
+        "GMT"
+      ],
+      "until": [
+        null
+      ],
+      "offset": [
+        0
+      ],
+      "dst": [
+        false
+      ]
+    }
+  },
+  "links": []
+}

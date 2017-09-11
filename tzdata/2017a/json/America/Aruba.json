@@ -1,0 +1,29 @@
+{
+  "version": "2017a",
+  "zones": {
+    "America/Aruba": {
+      "name": "America/Aruba",
+      "abbr": [
+        "LMT",
+        "-0430",
+        "AST"
+      ],
+      "until": [
+        -1826738653000,
+        -157750200000,
+        null
+      ],
+      "offset": [
+        275.7833,
+        270,
+        240
+      ],
+      "dst": [
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

@@ -1,0 +1,21 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Pacific/Ponape": {
+      "name": "Pacific/Ponape",
+      "abbr": [
+        "+11"
+      ],
+      "until": [
+        null
+      ],
+      "offset": [
+        -660
+      ],
+      "dst": [
+        false
+      ]
+    }
+  },
+  "links": []
+}

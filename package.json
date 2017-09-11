@@ -1,0 +1,11 @@
+{
+  "name": "datetime2-tzdata",
+  "description": "DateTime tzdata",
+  "version": "1.0.0",
+  "devDependencies": {
+    "datetime2-scripts": "^1.0.0"
+  },
+  "scripts": {
+    "tzdata": "generate-tzdata"
+  }
+}

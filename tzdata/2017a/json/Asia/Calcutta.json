@@ -1,0 +1,37 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Asia/Calcutta": {
+      "name": "Asia/Calcutta",
+      "abbr": [
+        "HMT",
+        "+0630",
+        "IST",
+        "+0630",
+        "IST"
+      ],
+      "until": [
+        -891582800000,
+        -872058600000,
+        -862637400000,
+        -764145000000,
+        null
+      ],
+      "offset": [
+        -353.3333,
+        -390,
+        -330,
+        -390,
+        -330
+      ],
+      "dst": [
+        false,
+        false,
+        false,
+        true,
+        false
+      ]
+    }
+  },
+  "links": []
+}

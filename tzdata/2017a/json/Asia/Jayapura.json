@@ -1,0 +1,33 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Asia/Jayapura": {
+      "name": "Asia/Jayapura",
+      "abbr": [
+        "LMT",
+        "+09",
+        "+0930",
+        "WIT"
+      ],
+      "until": [
+        -1172913768000,
+        -799491600000,
+        -189423000000,
+        null
+      ],
+      "offset": [
+        -562.8,
+        -540,
+        -570,
+        -540
+      ],
+      "dst": [
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

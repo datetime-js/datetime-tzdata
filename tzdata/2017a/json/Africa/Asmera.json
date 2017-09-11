@@ -1,0 +1,37 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Africa/Asmera": {
+      "name": "Africa/Asmera",
+      "abbr": [
+        "LMT",
+        "EAT",
+        "+0230",
+        "+0245",
+        "EAT"
+      ],
+      "until": [
+        -1309746436000,
+        -1262314800000,
+        -946780200000,
+        -315629100000,
+        null
+      ],
+      "offset": [
+        -147.2667,
+        -180,
+        -150,
+        -165,
+        -180
+      ],
+      "dst": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

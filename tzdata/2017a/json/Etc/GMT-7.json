@@ -1,0 +1,21 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Etc/GMT-7": {
+      "name": "Etc/GMT-7",
+      "abbr": [
+        "+07"
+      ],
+      "until": [
+        null
+      ],
+      "offset": [
+        -420
+      ],
+      "dst": [
+        false
+      ]
+    }
+  },
+  "links": []
+}

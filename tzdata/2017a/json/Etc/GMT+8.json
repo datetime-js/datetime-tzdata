@@ -1,0 +1,21 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Etc/GMT+8": {
+      "name": "Etc/GMT+8",
+      "abbr": [
+        "-08"
+      ],
+      "until": [
+        null
+      ],
+      "offset": [
+        480
+      ],
+      "dst": [
+        false
+      ]
+    }
+  },
+  "links": []
+}

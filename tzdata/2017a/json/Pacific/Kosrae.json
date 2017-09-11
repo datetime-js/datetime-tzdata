@@ -1,0 +1,29 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Pacific/Kosrae": {
+      "name": "Pacific/Kosrae",
+      "abbr": [
+        "+11",
+        "+12",
+        "+11"
+      ],
+      "until": [
+        -7988400000,
+        915105600000,
+        null
+      ],
+      "offset": [
+        -660,
+        -720,
+        -660
+      ],
+      "dst": [
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

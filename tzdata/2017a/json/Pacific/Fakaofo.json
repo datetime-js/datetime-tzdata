@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Pacific/Fakaofo": {
+      "name": "Pacific/Fakaofo",
+      "abbr": [
+        "-11",
+        "+13"
+      ],
+      "until": [
+        1325242800000,
+        null
+      ],
+      "offset": [
+        660,
+        -780
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

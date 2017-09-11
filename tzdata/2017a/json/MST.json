@@ -1,0 +1,21 @@
+{
+  "version": "2017a",
+  "zones": {
+    "MST": {
+      "name": "MST",
+      "abbr": [
+        "MST"
+      ],
+      "until": [
+        null
+      ],
+      "offset": [
+        420
+      ],
+      "dst": [
+        false
+      ]
+    }
+  },
+  "links": []
+}

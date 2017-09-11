@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Pacific/Pitcairn": {
+      "name": "Pacific/Pitcairn",
+      "abbr": [
+        "-0830",
+        "-08"
+      ],
+      "until": [
+        893665800000,
+        null
+      ],
+      "offset": [
+        510,
+        480
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Africa/Maputo": {
+      "name": "Africa/Maputo",
+      "abbr": [
+        "LMT",
+        "CAT"
+      ],
+      "until": [
+        -2109291020000,
+        null
+      ],
+      "offset": [
+        -130.3333,
+        -120
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

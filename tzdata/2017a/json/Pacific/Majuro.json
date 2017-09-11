@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Pacific/Majuro": {
+      "name": "Pacific/Majuro",
+      "abbr": [
+        "+11",
+        "+12"
+      ],
+      "until": [
+        -7988400000,
+        null
+      ],
+      "offset": [
+        -660,
+        -720
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

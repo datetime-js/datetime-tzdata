@@ -1,0 +1,21 @@
+{
+  "version": "2017a",
+  "zones": {
+    "GMT+0": {
+      "name": "GMT+0",
+      "abbr": [
+        "GMT"
+      ],
+      "until": [
+        null
+      ],
+      "offset": [
+        0
+      ],
+      "dst": [
+        false
+      ]
+    }
+  },
+  "links": []
+}

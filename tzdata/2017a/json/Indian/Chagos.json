@@ -1,0 +1,29 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Indian/Chagos": {
+      "name": "Indian/Chagos",
+      "abbr": [
+        "LMT",
+        "+05",
+        "+06"
+      ],
+      "until": [
+        -1988167780000,
+        820436400000,
+        null
+      ],
+      "offset": [
+        -289.6667,
+        -300,
+        -360
+      ],
+      "dst": [
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

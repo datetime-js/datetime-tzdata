@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Asia/Kabul": {
+      "name": "Asia/Kabul",
+      "abbr": [
+        "+04",
+        "+0430"
+      ],
+      "until": [
+        -788932800000,
+        null
+      ],
+      "offset": [
+        -240,
+        -270
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

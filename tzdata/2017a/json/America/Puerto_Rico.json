@@ -1,0 +1,33 @@
+{
+  "version": "2017a",
+  "zones": {
+    "America/Puerto_Rico": {
+      "name": "America/Puerto_Rico",
+      "abbr": [
+        "AST",
+        "AWT",
+        "APT",
+        "AST"
+      ],
+      "until": [
+        -873057600000,
+        -769395600000,
+        -765399600000,
+        null
+      ],
+      "offset": [
+        240,
+        180,
+        180,
+        240
+      ],
+      "dst": [
+        false,
+        true,
+        true,
+        false
+      ]
+    }
+  },
+  "links": []
+}

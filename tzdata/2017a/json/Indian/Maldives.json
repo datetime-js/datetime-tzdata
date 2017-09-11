@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Indian/Maldives": {
+      "name": "Indian/Maldives",
+      "abbr": [
+        "MMT",
+        "+05"
+      ],
+      "until": [
+        -315636840000,
+        null
+      ],
+      "offset": [
+        -294,
+        -300
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

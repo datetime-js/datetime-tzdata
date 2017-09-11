@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Africa/Abidjan": {
+      "name": "Africa/Abidjan",
+      "abbr": [
+        "LMT",
+        "GMT"
+      ],
+      "until": [
+        -1830383032000,
+        null
+      ],
+      "offset": [
+        16.1333,
+        0
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

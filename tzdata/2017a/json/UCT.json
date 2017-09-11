@@ -1,0 +1,21 @@
+{
+  "version": "2017a",
+  "zones": {
+    "UCT": {
+      "name": "UCT",
+      "abbr": [
+        "UCT"
+      ],
+      "until": [
+        null
+      ],
+      "offset": [
+        0
+      ],
+      "dst": [
+        false
+      ]
+    }
+  },
+  "links": []
+}

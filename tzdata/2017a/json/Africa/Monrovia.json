@@ -1,0 +1,29 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Africa/Monrovia": {
+      "name": "Africa/Monrovia",
+      "abbr": [
+        "MMT",
+        "-004430",
+        "GMT"
+      ],
+      "until": [
+        -1604359012000,
+        73529070000,
+        null
+      ],
+      "offset": [
+        43.1333,
+        44.5,
+        0
+      ],
+      "dst": [
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

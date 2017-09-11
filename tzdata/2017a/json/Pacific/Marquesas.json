@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Pacific/Marquesas": {
+      "name": "Pacific/Marquesas",
+      "abbr": [
+        "LMT",
+        "-0930"
+      ],
+      "until": [
+        -1806676920000,
+        null
+      ],
+      "offset": [
+        558,
+        570
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

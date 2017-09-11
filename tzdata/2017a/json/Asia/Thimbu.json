@@ -1,0 +1,29 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Asia/Thimbu": {
+      "name": "Asia/Thimbu",
+      "abbr": [
+        "LMT",
+        "+0530",
+        "+06"
+      ],
+      "until": [
+        -706341516000,
+        560025000000,
+        null
+      ],
+      "offset": [
+        -358.6,
+        -330,
+        -360
+      ],
+      "dst": [
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

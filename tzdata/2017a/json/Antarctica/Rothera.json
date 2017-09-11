@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Antarctica/Rothera": {
+      "name": "Antarctica/Rothera",
+      "abbr": [
+        "-00",
+        "-03"
+      ],
+      "until": [
+        218246400000,
+        null
+      ],
+      "offset": [
+        0,
+        180
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

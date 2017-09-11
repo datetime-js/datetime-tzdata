@@ -1,0 +1,21 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Indian/Cocos": {
+      "name": "Indian/Cocos",
+      "abbr": [
+        "+0630"
+      ],
+      "until": [
+        null
+      ],
+      "offset": [
+        -390
+      ],
+      "dst": [
+        false
+      ]
+    }
+  },
+  "links": []
+}

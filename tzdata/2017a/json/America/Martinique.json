@@ -1,0 +1,33 @@
+{
+  "version": "2017a",
+  "zones": {
+    "America/Martinique": {
+      "name": "America/Martinique",
+      "abbr": [
+        "FFMT",
+        "AST",
+        "ADT",
+        "AST"
+      ],
+      "until": [
+        -1851537340000,
+        323841600000,
+        338958000000,
+        null
+      ],
+      "offset": [
+        244.3333,
+        240,
+        180,
+        240
+      ],
+      "dst": [
+        false,
+        false,
+        true,
+        false
+      ]
+    }
+  },
+  "links": []
+}

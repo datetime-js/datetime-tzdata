@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Asia/Muscat": {
+      "name": "Asia/Muscat",
+      "abbr": [
+        "LMT",
+        "+04"
+      ],
+      "until": [
+        -1577936472000,
+        null
+      ],
+      "offset": [
+        -221.2,
+        -240
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

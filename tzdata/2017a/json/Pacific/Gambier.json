@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Pacific/Gambier": {
+      "name": "Pacific/Gambier",
+      "abbr": [
+        "LMT",
+        "-09"
+      ],
+      "until": [
+        -1806678012000,
+        null
+      ],
+      "offset": [
+        539.8,
+        540
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

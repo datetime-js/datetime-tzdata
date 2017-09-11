@@ -1,0 +1,29 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Pacific/Kiritimati": {
+      "name": "Pacific/Kiritimati",
+      "abbr": [
+        "-1040",
+        "-10",
+        "+14"
+      ],
+      "until": [
+        307622400000,
+        788954400000,
+        null
+      ],
+      "offset": [
+        640,
+        600,
+        -840
+      ],
+      "dst": [
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

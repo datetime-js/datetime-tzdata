@@ -1,0 +1,21 @@
+{
+  "version": "2017a",
+  "zones": {
+    "UTC": {
+      "name": "UTC",
+      "abbr": [
+        "UTC"
+      ],
+      "until": [
+        null
+      ],
+      "offset": [
+        0
+      ],
+      "dst": [
+        false
+      ]
+    }
+  },
+  "links": []
+}

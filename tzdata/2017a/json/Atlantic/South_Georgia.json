@@ -1,0 +1,21 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Atlantic/South_Georgia": {
+      "name": "Atlantic/South_Georgia",
+      "abbr": [
+        "-02"
+      ],
+      "until": [
+        null
+      ],
+      "offset": [
+        120
+      ],
+      "dst": [
+        false
+      ]
+    }
+  },
+  "links": []
+}

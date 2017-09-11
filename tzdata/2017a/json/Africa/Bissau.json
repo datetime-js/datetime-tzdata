@@ -1,0 +1,29 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Africa/Bissau": {
+      "name": "Africa/Bissau",
+      "abbr": [
+        "LMT",
+        "-01",
+        "GMT"
+      ],
+      "until": [
+        -1830380260000,
+        157770000000,
+        null
+      ],
+      "offset": [
+        62.3333,
+        60,
+        0
+      ],
+      "dst": [
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

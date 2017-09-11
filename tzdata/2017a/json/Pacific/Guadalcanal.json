@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Pacific/Guadalcanal": {
+      "name": "Pacific/Guadalcanal",
+      "abbr": [
+        "LMT",
+        "+11"
+      ],
+      "until": [
+        -1806748788000,
+        null
+      ],
+      "offset": [
+        -639.8,
+        -660
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

@@ -1,0 +1,21 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Etc/GMT-6": {
+      "name": "Etc/GMT-6",
+      "abbr": [
+        "+06"
+      ],
+      "until": [
+        null
+      ],
+      "offset": [
+        -360
+      ],
+      "dst": [
+        false
+      ]
+    }
+  },
+  "links": []
+}

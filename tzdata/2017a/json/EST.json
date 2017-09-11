@@ -1,0 +1,21 @@
+{
+  "version": "2017a",
+  "zones": {
+    "EST": {
+      "name": "EST",
+      "abbr": [
+        "EST"
+      ],
+      "until": [
+        null
+      ],
+      "offset": [
+        300
+      ],
+      "dst": [
+        false
+      ]
+    }
+  },
+  "links": []
+}

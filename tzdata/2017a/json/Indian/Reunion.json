@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Indian/Reunion": {
+      "name": "Indian/Reunion",
+      "abbr": [
+        "LMT",
+        "+04"
+      ],
+      "until": [
+        -1848886912000,
+        null
+      ],
+      "offset": [
+        -221.8667,
+        -240
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

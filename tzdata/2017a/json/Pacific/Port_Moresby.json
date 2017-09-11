@@ -1,0 +1,21 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Pacific/Port_Moresby": {
+      "name": "Pacific/Port_Moresby",
+      "abbr": [
+        "+10"
+      ],
+      "until": [
+        null
+      ],
+      "offset": [
+        -600
+      ],
+      "dst": [
+        false
+      ]
+    }
+  },
+  "links": []
+}

@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Antarctica/Vostok": {
+      "name": "Antarctica/Vostok",
+      "abbr": [
+        "-00",
+        "+06"
+      ],
+      "until": [
+        -380073600000,
+        null
+      ],
+      "offset": [
+        0,
+        -360
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

@@ -1,0 +1,29 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Antarctica/Mawson": {
+      "name": "Antarctica/Mawson",
+      "abbr": [
+        "-00",
+        "+06",
+        "+05"
+      ],
+      "until": [
+        -501206400000,
+        1255809600000,
+        null
+      ],
+      "offset": [
+        0,
+        -360,
+        -300
+      ],
+      "dst": [
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

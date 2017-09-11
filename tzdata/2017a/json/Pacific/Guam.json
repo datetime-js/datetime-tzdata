@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Pacific/Guam": {
+      "name": "Pacific/Guam",
+      "abbr": [
+        "GST",
+        "ChST"
+      ],
+      "until": [
+        977493600000,
+        null
+      ],
+      "offset": [
+        -600,
+        -600
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}

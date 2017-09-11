@@ -1,0 +1,21 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Pacific/Tarawa": {
+      "name": "Pacific/Tarawa",
+      "abbr": [
+        "+12"
+      ],
+      "until": [
+        null
+      ],
+      "offset": [
+        -720
+      ],
+      "dst": [
+        false
+      ]
+    }
+  },
+  "links": []
+}

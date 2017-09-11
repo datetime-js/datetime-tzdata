@@ -1,0 +1,25 @@
+{
+  "version": "2017a",
+  "zones": {
+    "Asia/Urumqi": {
+      "name": "Asia/Urumqi",
+      "abbr": [
+        "LMT",
+        "+06"
+      ],
+      "until": [
+        -1325483420000,
+        null
+      ],
+      "offset": [
+        -350.3333,
+        -360
+      ],
+      "dst": [
+        false,
+        false
+      ]
+    }
+  },
+  "links": []
+}
